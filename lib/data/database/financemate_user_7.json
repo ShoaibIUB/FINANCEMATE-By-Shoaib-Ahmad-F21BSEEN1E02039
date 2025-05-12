@@ -1,0 +1,37 @@
+{
+    "name": "Sana Malik",
+    "monthly_income": [
+        {
+            "source": "Rental Income",
+            "amount": 62321.07
+        },
+        {
+            "source": "Freelancing",
+            "amount": 44218.09
+        },
+        {
+            "source": "Rental Income",
+            "amount": 74712.55
+        }
+    ],
+    "monthly_expenses": [
+        {
+            "category": "Entertainment",
+            "amount": 15373.02
+        },
+        {
+            "category": "Utilities",
+            "amount": 10139.23
+        },
+        {
+            "category": "Education",
+            "amount": 3214.72
+        },
+        {
+            "category": "Healthcare",
+            "amount": 15568.49
+        }
+    ],
+    "monthly_savings": 136956.25,
+    "currency": "PKR"
+}

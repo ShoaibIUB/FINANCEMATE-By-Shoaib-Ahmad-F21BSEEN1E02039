@@ -1,0 +1,45 @@
+{
+    "name": "Fatima Khan",
+    "monthly_income": [
+        {
+            "source": "Freelancing",
+            "amount": 86557.63
+        },
+        {
+            "source": "Rental Income",
+            "amount": 121605.61
+        }
+    ],
+    "monthly_expenses": [
+        {
+            "category": "Education",
+            "amount": 5276.15
+        },
+        {
+            "category": "Dining",
+            "amount": 10305.39
+        },
+        {
+            "category": "Utilities",
+            "amount": 8860.57
+        },
+        {
+            "category": "Education",
+            "amount": 17006.81
+        },
+        {
+            "category": "Utilities",
+            "amount": 1334.91
+        },
+        {
+            "category": "Utilities",
+            "amount": 6782.56
+        },
+        {
+            "category": "Transport",
+            "amount": 15358.14
+        }
+    ],
+    "monthly_savings": 143238.71,
+    "currency": "PKR"
+}

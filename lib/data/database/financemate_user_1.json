@@ -1,0 +1,37 @@
+{
+    "name": "Ali Raza",
+    "monthly_income": [
+        {
+            "source": "Rental Income",
+            "amount": 86902.79
+        },
+        {
+            "source": "Freelancing",
+            "amount": 113609.1
+        }
+    ],
+    "monthly_expenses": [
+        {
+            "category": "Healthcare",
+            "amount": 14910.24
+        },
+        {
+            "category": "Entertainment",
+            "amount": 13438.31
+        },
+        {
+            "category": "Groceries",
+            "amount": 12424.22
+        },
+        {
+            "category": "Healthcare",
+            "amount": 19466.38
+        },
+        {
+            "category": "Dining",
+            "amount": 4293.89
+        }
+    ],
+    "monthly_savings": 135978.85,
+    "currency": "PKR"
+}

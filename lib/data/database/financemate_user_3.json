@@ -1,0 +1,37 @@
+{
+    "name": "Zainab Ali",
+    "monthly_income": [
+        {
+            "source": "Salary",
+            "amount": 86084.1
+        }
+    ],
+    "monthly_expenses": [
+        {
+            "category": "Utilities",
+            "amount": 5110.64
+        },
+        {
+            "category": "Healthcare",
+            "amount": 16688.14
+        },
+        {
+            "category": "Utilities",
+            "amount": 9534.11
+        },
+        {
+            "category": "Transport",
+            "amount": 11043.59
+        },
+        {
+            "category": "Transport",
+            "amount": 5284.18
+        },
+        {
+            "category": "Dining",
+            "amount": 12571.18
+        }
+    ],
+    "monthly_savings": 25852.26,
+    "currency": "PKR"
+}

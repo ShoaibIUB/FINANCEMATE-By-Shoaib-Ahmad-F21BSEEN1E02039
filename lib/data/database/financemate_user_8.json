@@ -1,0 +1,29 @@
+{
+    "name": "Bilal Haider",
+    "monthly_income": [
+        {
+            "source": "Salary",
+            "amount": 117277.98
+        }
+    ],
+    "monthly_expenses": [
+        {
+            "category": "Groceries",
+            "amount": 11797.33
+        },
+        {
+            "category": "Utilities",
+            "amount": 6494.05
+        },
+        {
+            "category": "Entertainment",
+            "amount": 3397.64
+        },
+        {
+            "category": "Healthcare",
+            "amount": 4744.89
+        }
+    ],
+    "monthly_savings": 90844.07,
+    "currency": "PKR"
+}

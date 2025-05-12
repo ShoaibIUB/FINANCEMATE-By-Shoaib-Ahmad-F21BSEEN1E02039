@@ -1,0 +1,41 @@
+{
+    "name": "Usman Tariq",
+    "monthly_income": [
+        {
+            "source": "Investments",
+            "amount": 128593.87
+        },
+        {
+            "source": "Investments",
+            "amount": 41160.97
+        }
+    ],
+    "monthly_expenses": [
+        {
+            "category": "Education",
+            "amount": 14503.59
+        },
+        {
+            "category": "Entertainment",
+            "amount": 1276.18
+        },
+        {
+            "category": "Utilities",
+            "amount": 18859.23
+        },
+        {
+            "category": "Entertainment",
+            "amount": 16143.15
+        },
+        {
+            "category": "Entertainment",
+            "amount": 16208.88
+        },
+        {
+            "category": "Utilities",
+            "amount": 2382.07
+        }
+    ],
+    "monthly_savings": 100381.74,
+    "currency": "PKR"
+}

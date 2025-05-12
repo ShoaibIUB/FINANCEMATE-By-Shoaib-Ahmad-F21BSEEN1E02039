@@ -1,0 +1,41 @@
+{
+    "name": "Ahmed Shah",
+    "monthly_income": [
+        {
+            "source": "Rental Income",
+            "amount": 97530.15
+        },
+        {
+            "source": "Investments",
+            "amount": 108485.13
+        }
+    ],
+    "monthly_expenses": [
+        {
+            "category": "Dining",
+            "amount": 18088.44
+        },
+        {
+            "category": "Entertainment",
+            "amount": 17257.58
+        },
+        {
+            "category": "Education",
+            "amount": 1968.25
+        },
+        {
+            "category": "Dining",
+            "amount": 4216.49
+        },
+        {
+            "category": "Education",
+            "amount": 17860.98
+        },
+        {
+            "category": "Education",
+            "amount": 9833.5
+        }
+    ],
+    "monthly_savings": 136790.04,
+    "currency": "PKR"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Hira Qureshi",
+    "monthly_income": [
+        {
+            "source": "Rental Income",
+            "amount": 147836.16
+        }
+    ],
+    "monthly_expenses": [
+        {
+            "category": "Healthcare",
+            "amount": 7609.74
+        },
+        {
+            "category": "Dining",
+            "amount": 12785.4
+        },
+        {
+            "category": "Groceries",
+            "amount": 2473.66
+        },
+        {
+            "category": "Dining",
+            "amount": 16709.34
+        }
+    ],
+    "monthly_savings": 108258.02,
+    "currency": "PKR"
+}

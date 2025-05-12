@@ -1,0 +1,41 @@
+{
+    "name": "Ayesha Siddiqui",
+    "monthly_income": [
+        {
+            "source": "Salary",
+            "amount": 85177.36
+        }
+    ],
+    "monthly_expenses": [
+        {
+            "category": "Healthcare",
+            "amount": 15040.99
+        },
+        {
+            "category": "Dining",
+            "amount": 18179.43
+        },
+        {
+            "category": "Dining",
+            "amount": 15739.95
+        },
+        {
+            "category": "Groceries",
+            "amount": 7219.62
+        },
+        {
+            "category": "Entertainment",
+            "amount": 8111.29
+        },
+        {
+            "category": "Dining",
+            "amount": 3613.13
+        },
+        {
+            "category": "Utilities",
+            "amount": 5159.45
+        }
+    ],
+    "monthly_savings": 12113.5,
+    "currency": "PKR"
+}
